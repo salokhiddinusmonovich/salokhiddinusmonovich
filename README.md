@@ -1,10 +1,5 @@
 
 
-
-
-
-📫 How to reach me usmonovsalokhiddin@gmail.com
-
 ⚡ Fun fact I love errors. It teaches the tech more details.
 <h1 align="center">Hi 👋, I'm Salokhiddin</h1>
 <h3 align="center">💬 Ask me about Web Development.</h3>
@@ -14,6 +9,9 @@
 </h3>
 <h3 align="center">
 📫 How to reach me usmonovsalokhiddin@gmail.com
+</h3>
+<h3 align="center">
+⚡ Fun fact I love errors. It teaches the tech more details.
 </h3>
 
 <p align="center">
