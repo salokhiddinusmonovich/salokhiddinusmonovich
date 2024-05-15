@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @salokhiddinusmonovich
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👨🏼‍💻 I love coding and learning new things
+Hi 👋, I'm Salokhiddin
+A passionate Software Engineer. I love to learn new Technology.
 
 
+🌱 I’m currently learning Machine Learning and Deep Learning.
+
+👨‍💻 All of my projects are available at my portfolio
+
+💬 Ask me about Web Development.
+
+📫 How to reach me usmonovsalokhiddin@gmail.com
+
+⚡ Fun fact I love errors. It teaches the tech more details.
 
