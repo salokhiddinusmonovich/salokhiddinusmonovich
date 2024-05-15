@@ -10,10 +10,11 @@
 <h3 align="center">💬 Ask me about Web Development.</h3>
 <h3 align="center">👨‍💻 All of my projects are available at my portfolio
 </h3>
-🌱 I’m currently learning Machine Learning and Deep Learning.
-
-
-A passionate Software Engineer. I love to learn new Technology.
+<h3 align="center">🌱 I’m currently learning Machine Learning and Deep Learning.
+</h3>
+<h3 align="center">
+📫 How to reach me usmonovsalokhiddin@gmail.com
+</h3>
 
 <p align="center">
 <a href="https://wakatime.com/@underscript" target="_blank"><img src="https://wakatime.com/badge/user/018ee72f-9aff-4b44-90e5-ee1dde2e106f.svg" /></a>
