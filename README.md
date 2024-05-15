@@ -12,10 +12,6 @@
 ⚡ Fun fact I love errors. It teaches the tech more details.
 </h3>
 
-<p align="center">
-<a href="https://wakatime.com/@underscript" target="_blank"><img src="https://wakatime.com/badge/user/018ee72f-9aff-4b44-90e5-ee1dde2e106f.svg" /></a>
-<img src="https://komarev.com/ghpvc/?username=under-script&label=Profile%20views&color=0e75b6&style=flat" alt="under-script" />
-</p>
 
 
 # 💻 Tech Stack:
