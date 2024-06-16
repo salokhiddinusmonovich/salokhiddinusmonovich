@@ -12,7 +12,6 @@
 ⚡ Fun fact I love errors. It teaches the tech more details.
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 # 💻 Tech Stack:
 
@@ -33,6 +32,15 @@
 [![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 <br/>
 
+
+
+
+
+
+
+
+
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 ## 👁️ Number of visits:
 
