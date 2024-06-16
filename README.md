@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Salokhiddin</h1>
 <h3 align="center">💬 Ask me about Back-end Development</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h3 align="center">👨‍💻 All of my projects are available at my portfolio
 </h3>
 <h3 align="center">🌱 I’m currently learning Machine Learning and Go.
@@ -13,7 +12,7 @@
 ⚡ Fun fact I love errors. It teaches the tech more details.
 </h3>
 
-
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 # 💻 Tech Stack:
 
